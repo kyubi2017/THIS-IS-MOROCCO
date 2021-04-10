@@ -9,7 +9,7 @@ I created this project using :
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width:100%;">
 
 
-you can visit this copy of my website in :  <a href="https://this-is-morocco.vercel.app/" >from here</a>
+you can visit this copy of my website :  <a href="https://this-is-morocco.vercel.app/" >from here</a>
 
 feel free to use this or see the code of this project if it helps you
 
